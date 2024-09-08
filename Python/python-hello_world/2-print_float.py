@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # A script that prints `Float:` followed by
 # the value of variable `number`.
 
