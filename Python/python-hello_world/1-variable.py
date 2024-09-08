@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Write a script that prints out the value of a variable
-# to complete the address.
+# A sscript that prints out the value of a variable
+# to complete the address `Battery street`.
 
 street_number = 97
 
